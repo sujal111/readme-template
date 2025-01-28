@@ -10,6 +10,7 @@ Generate API keys and access logos in various sizes and formats, all while stayi
 # How to run this project
 
 git clone https://github.com/TeamShiksha/logoexecutive.git
+
 cd logoexecutive
 pnpm install
 pnpm start
